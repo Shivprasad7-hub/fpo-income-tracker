@@ -14,7 +14,7 @@ A Flask-based dashboard to measure and track the income impact of Farmer Produce
 
 ## 🛠 Setup
 ```bash
-git clone https://github.com/YourUsername/fpo-income-tracker.git
+git clone https://github.com/Shivprasad7/fpo-income-tracker.git
 cd fpo-income-tracker
 pip install -r requirements.txt
 python app.py
